@@ -8,6 +8,9 @@ __pycache__/
 
 *.vscode/
 
+# env
+mkdocs-env/
+
 # C extensions
 *.so
 
