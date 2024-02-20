@@ -12,7 +12,7 @@ Steganography is a common CTF technique, used to hide information into a file.
 ## StegCracker
 
 [StegCracker](https://www.kali.org/tools/stegcracker/) is command line utility for cracking stegano challenges.
-With StegCracker it is possible to brute-force hidden data.
+With StegCracker it is possible to brute-force hidden data. Prefer Stegseek, as it is more efficient.
 
 ### StegCracker usage
 
@@ -61,5 +61,20 @@ Hexdump can be used for extraction of binary data and files.
 Display content of a binary file with binary and text and pipe to less:
 ```bash
 hexdump -C <file> | less
+```
+
+***
+
+## Stegseek
+
+Stegseek is an improved version of stegcracker. It can be found [here](https://github.com/RickdeJager/stegseek).
+It can be used to bruteforce password protected content.
+
+### Stegseek usage:
+
+Use the Stegseek:
+
+```bash
+stegseek <file_to_brute> <wordlist_file>
 ```
 

@@ -5,18 +5,41 @@ Typical to exploit API's and bruteforcing such as Ffufing.
 
 ## Ffuf
 
+***
+
 ## BurpSuite
+
+***
 
 ## Nmap
 
+Typical tool for port scanning.
+
+### Nmap usage
+
+Use basic scan with command:
+
+```bash
+nmap -sC -sV <ip_here>
+```
+
+***
+
 ## Wireshark
+
+***
 
 ## Tcpdump
 
+***
+
 ## Curl
+
+***
 
 ## Postman
 
-## Sqlmap
+***
 
+## Sqlmap
 
