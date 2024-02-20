@@ -2,6 +2,7 @@
 
 ## Ghidra
 
+https://ghidra-sre.org/
 Used for binary files reverse-engineering.
 
 ## Radare2
