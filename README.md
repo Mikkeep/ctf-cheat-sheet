@@ -1,7 +1,7 @@
 # CTF-cheat-sheet
 ## A Cheat Sheet for CTF competitions for typical tools and methods.
 
-## GitHub Pages
+### GitHub Pages
 
 https://mikkeep.github.io/ctf-cheat-sheet/
 
