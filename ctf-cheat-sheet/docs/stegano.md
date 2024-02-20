@@ -32,6 +32,12 @@ Extract common file types from file:
 binwalk -e <file>
 ```
 
+Extract all files from file:
+```bash
+binwalk -dd '.*' <file>
+```
+
+
 ***
 
 ## Strings

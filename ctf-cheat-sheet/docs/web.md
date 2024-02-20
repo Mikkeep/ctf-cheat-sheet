@@ -5,6 +5,10 @@ Typical to exploit API's and bruteforcing such as Ffufing.
 
 ## Ffuf
 
+```bash
+ffuf -w /path/to/wordlist -u https://target/FUZZ
+```
+
 ***
 
 ## BurpSuite
