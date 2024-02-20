@@ -1,0 +1,20 @@
+site_name: CTF Cheat Sheet
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+    - python3
+    - bash
+prev_next_buttons_location: both
+nav:
+  - Home: index.md
+  - Stegano: stegano.md
+  - Web: web.md
+  - Crypto: crypto.md
+  - Binary: binary.md
+  - Forensic: forensic.md
+  - Reversing: reversing.md
+  - Network: network.md
+  - OSINT: osint.md
