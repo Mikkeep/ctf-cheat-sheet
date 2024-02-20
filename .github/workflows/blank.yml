@@ -14,5 +14,5 @@ jobs:
       - run: ls
       - run: pip install mkdocs
       - name: AAA
-        working-directory: ./ctf-cheat-sheet/ctf-cheat-sheet
+        working-directory: ctf-cheat-sheet
         run: mkdocs gh-deploy --force --clean --verbose
