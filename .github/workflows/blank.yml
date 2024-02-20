@@ -12,5 +12,6 @@ jobs:
         with:
           python-version: 3.x
           working-directory: ./ctf-cheat-sheet
+      - run: pwd
       - run: pip install mkdocs
       - run: mkdocs gh-deploy --force --clean --verbose
