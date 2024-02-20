@@ -13,6 +13,6 @@ jobs:
           python-version: 3.x
       - run: ls
       - run: pip install mkdocs
-      - name: AAA
+      - name: Deploy Pages
         working-directory: ctf-cheat-sheet
         run: mkdocs gh-deploy --force --clean --verbose
