@@ -1,6 +1,10 @@
 # CTF-cheat-sheet
 ## A Cheat Sheet for CTF competitions for typical tools and methods.
 
+## GitHub Pages
+
+https://mikkeep.github.io/ctf-cheat-sheet/
+
 ### View the Docs
 
 Install dependencies (mkdocs)
